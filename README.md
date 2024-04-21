@@ -23,7 +23,7 @@ Access the Web App - Use the web app to predict multiple diseases.
 Installation
 Clone the repository:
 
-git clone https://github.com/AryanKaushal2002/MediPredict.git
+git clone https://github.com/s-h-i-v-i-s/disease_prediction_web_app
 Install the required dependencies:
 
 pip install -r requirements.txt
