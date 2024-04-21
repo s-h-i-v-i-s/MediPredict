@@ -1,4 +1,4 @@
-# MediPredict
+# disease_prediction_web_app
 Multiple Disease Prediction Web App & Docker Container
 License
 
